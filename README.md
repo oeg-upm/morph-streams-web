@@ -1,7 +1,7 @@
-morph-web
-=========
+morph-streams-web
+=================
 
-morph-web is a web demonstrator for morph-streams: [https://github.com/oeg-upm/morph-streams], an RDF stream query processor.
+morph-streams-web is a web demonstrator for morph-streams: [https://github.com/oeg-upm/morph-streams], an RDF stream query processor.
 
 ##Install it yourself
 
@@ -19,7 +19,7 @@ Then you can:
 
 ##Use cases
 
-Follow the [tutorial](https://github.com/oeg-upm/morph-web/wiki/Tutorial:-Morph-streams) to learn about:
+Follow the [tutorial](https://github.com/oeg-upm/morph-streams-web/wiki/Tutorial:-Morph-streams) to learn about:
 * Registering a query
 * Pulling data from a registered query
 * Pushing data with WebSockets
